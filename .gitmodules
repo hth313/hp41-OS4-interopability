@@ -1,0 +1,12 @@
+[submodule "module/mainframe"]
+	path = module/mainframe
+	url = https://github.com/hth313/mainframe.git
+[submodule "module/OS4"]
+	path = module/OS4
+	url = https://github.com/hth313/OS4.git
+[submodule "module/ladybug"]
+	path = module/ladybug
+	url = https://github.com/hth313/ladybug.git
+[submodule "module/boost41"]
+	path = module/boost41
+	url = https://github.com/hth313/boost41.git
